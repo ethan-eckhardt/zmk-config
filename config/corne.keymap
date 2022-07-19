@@ -85,7 +85,7 @@
    &none      &none        &none        &none        &none        &none          &kp F12    &kp F7    &kp F8    &kp F9     &none     &none
    &none      &kp LGUI     &kp LALT     &kp LCTRL    &kp LSHFT    &none          &kp F11    &kp F4    &kp F5    &kp F6     &none     &none
    &none      &none        &none        &none        &none        &none          &kp F10    &kp F1    &kp F2    &kp F3     &none     &none
-                          	        &none        &none        &trans         &kp ENT  &kp SPACE  &kp BKSP
+                          	        &none        &none        &trans         &kp RET  &kp SPACE  &kp BSPC
                         >;
                 };
 
@@ -99,7 +99,7 @@
    &kp TAB   &kp Q &kp W &kp E &kp R &kp T   &none &none  &none     &none   &none  &none
    &kp LCTRL &kp A &kp S &kp D &kp F &kp G   &none &kp H  &kp J     &kp K   &kp L  &none
    &kp LSHFT &kp Z &kp X &kp C &kp V &kp B   &none &none  &none     &none   &none  &tog GAME
-                       &kp O &kp SPACE &kp M   &kp ENT  &kp SPACE &kp C_MUTE
+                       &kp O &kp SPACE &kp M   &kp RET  &kp SPACE &kp C_MUTE
                         >;
                 };
         };
