@@ -68,7 +68,7 @@
 // | SHFT |  ~  |  !  |  @  |  #  |  |  |   |     |     |     |     |     |      |
 //                    |  (  |  )  |  _  |   |     |     |     |
                         bindings = <
-   &kp TAB   &kp LBRC  &kp AMPS &kp STAR  &kp RBRKT  &kp RBRC   &none     &none     &none     &none     &none     &none
+   &kp TAB   &kp LBRC  &kp AMPS &kp STAR  &kp RBKT  &kp RBRC   &none     &none     &none     &none     &none     &none
    &kp LCTRL &kp COLON &kp DLLR &kp PRCNT &kp CARET  &kp PLUS   &none     &kp RSHFT &kp RCTRL &kp RALT  &kp RGUI  &none
    &kp LSHFT &kp TILDE &kp EXCL &kp AT    &kp HASH   &kp PIPE   &none     &none     &none     &none     &none     &none
                     	        &kp LBRC  &kp RBRC   &kp UNDER  &trans    &none     &none
