@@ -29,7 +29,7 @@
    &kp TAB   &kp Q &kp W &kp F &kp P &kp B   &kp J &kp L  &kp U     &kp Y   &kp SQT  &kp BSPC
    &kp LCTRL &kp A &kp R &kp S &kp T &kp G   &kp M &kp N  &kp E     &kp I   &kp O    &kp SQT
    &kp LSHFT &kp Z &kp X &kp C &kp D &kp V   &kp K &kp H  &kp COMMA &kp DOT &kp FSLH &kp ESC
-   &kp LSHFT &lt NAVI SPACE &lt FUN TAB      &lt SYM RET  &lt NUM SPACE &kp RSHFT
+   &kp LSHFT &lt NAVI BSPC &lt FUN TAB      &lt SYM RET  &lt NUM SPACE &kp RSHFT
                         >;
                 };
 
@@ -43,7 +43,7 @@
    &none      &none        &none        &none        &none        &none          &none    &none    &none    &none     &none     &none
    &none      &kp LGUI     &kp LALT     &kp LCTRL    &kp LSHFT    &none          &kp TAB  &kp LEFT &kp DOWN &kp UP    &kp RIGHT &kp CAPS 
    &none      &none        &none        &none        &none        &none          &none    &none    &none    &none      &none    &tog GAME
-                          	        &none        &trans       &none          &kp ENT  &kp SPACE  &kp BKSP
+                          	        &none        &trans       &none          &kp ENT  &kp SPACE  &kp BSPC
                         >;
                 };
 
