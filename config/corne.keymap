@@ -35,12 +35,12 @@
 
                 navi_layer {
 // -----------------------------------------------------------------------------------------
-// |      |     |     |     |     |     |   |     |     |     |     |     |      |
+// | BTNXT|     |     |  S  |     |  L  |   |     |     |     |     |     |      |
 // |      | LGUI| LALT|LCTRL|LSHFT|     |   | TAB | LFT | DWN |  UP | RGT | CAPS |      
 // |      |     |     |     |     |     |   |     |     |     |     |     | GAME |
 //                    |     |     |     |   | ENT | SPC |BSPC |
                         bindings = <
-   &none      &none        &none        &none        &none        &none          &none    &none    &none    &none     &none     &none
+   &bt BT_NXT&none        &none        &none        &none        &none          &none    &none    &none    &none     &none     &none
    &none      &kp LGUI     &kp LALT     &kp LCTRL    &kp LSHFT    &none          &kp TAB  &kp LEFT &kp DOWN &kp UP    &kp RIGHT &kp CAPS 
    &none      &none        &none        &none        &none        &none          &none    &none    &none    &none      &none    &tog GAME
                           	        &none        &trans       &none          &kp RET  &kp SPACE  &kp BSPC
