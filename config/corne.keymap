@@ -40,7 +40,7 @@
 // |      |     |     |     |     |     |   |     |     |     |     |     | GAME |
 //                    |     |     |     |   | ENT | SPC |BSPC |
                         bindings = <
-   &bt BT_SEL   &bt BT_SEL 1 &bt BT_SEL 2 &none        &none        &none          &none    &none    &none    &none     &none     &none
+   &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &none        &none        &none          &none    &none    &none    &none     &none     &none
    &none        &kp LGUI     &kp LALT     &kp LCTRL    &kp LSHFT    &none          &kp TAB  &kp LEFT &kp DOWN &kp UP    &kp RIGHT &kp CAPS 
    &none        &none        &none        &none        &none        &none          &none    &none    &none    &none      &none    &tog GAME
                           	          &none        &trans       &bt BT_CLR     &kp RET  &kp SPACE  &kp BSPC
