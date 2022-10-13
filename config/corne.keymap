@@ -43,7 +43,7 @@
    &bt BT_SEL 0&none        &none        &none        &none        &none          &none    &none    &none    &none     &none     &none
    &bt BT_SEL 1&kp LGUI     &kp LALT     &kp LCTRL    &kp LSHFT    &none          &kp TAB  &kp LEFT &kp DOWN &kp UP    &kp RIGHT &kp CAPS 
    &bt BT_SEL 2&none        &none        &none        &none        &none          &none    &none    &none    &none      &none    &tog GAME
-                          	         &none        &trans       &none          &kp RET  &kp SPACE  &kp BSPC
+                          	         &none        &trans       &bt BT_CLR     &kp RET  &kp SPACE  &kp BSPC
                         >;
                 };
 
